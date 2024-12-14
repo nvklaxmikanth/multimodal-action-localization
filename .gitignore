@@ -1,0 +1,13 @@
+/data
+/ego4d-goalstep/data
+/ego4d-goalstep/asset
+/ego4d-goalstep/step_grounding/data
+/ego4d-goalstep/step_grounding/datasets
+/ego4d-goalstep/step_grounding/experiments/vslnet
+enable_naq.sh
+hpc.txt
+temp.txt
+temp.py
+training_logs.out
+ego4d
+gpu_job.slurm
