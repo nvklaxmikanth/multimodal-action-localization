@@ -48,29 +48,6 @@ Our modifications improved action localization performance significantly, valida
 - LaViLa and Omnivore embeddings  
 - Ego4D Dataset  
 
-## **Usage**
-
-1. Clone the repository:  
-   ```bash
-   git clone <repository-link>
-   cd ego4d-goalstep
-   ```
-
-2. Install dependencies:  
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Train the model:  
-   ```bash
-   python train.py --config configs/vslnet.yaml
-   ```
-
-4. Evaluate:  
-   ```bash
-   python evaluate.py --checkpoint <model_checkpoint>
-   ```
-
 ## **Acknowledgments**
 
 This project was conducted for the *NYU DS-GA-1011 NLP with Representation Learning* course. We acknowledge the contributions of the course instructors and the Ego4D dataset team.
