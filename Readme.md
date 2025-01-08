@@ -1,4 +1,4 @@
-# **Ego4D GoalStep - Step Grounding**
+# **Multimodal Action Localization for Ego4D**
 
 ## **Project Overview**
 
